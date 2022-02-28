@@ -1,2 +1,2 @@
 # dio-code-clallenge
-Example repository to fullfil a code challenge.
+## Example repository to fullfil a code challenge.
